@@ -1,0 +1,7 @@
+torch
+torchaudio
+transformers
+datasets
+peft==0.7.0
+jiwer
+pandas
